@@ -1,0 +1,8 @@
+{
+  "name": "MagicPassQR",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "5a0ad790"
+}
